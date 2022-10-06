@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://pbs.twimg.com/media/EuDAtdlWQAsBKid.jpg" alt="Waifu" width="120px">
-    <h1>YuanD</h1>
-    <h3>Hi! i am YuanD, i'm software engineer</h3>
+    <img src="https://pbs.twimg.com/media/EuDAtdlWQAsBKid.jpg" alt="Waifu" width="200">
+    <h1 align="center">YuanD</h1>
+    <h3 align="center">Hi! i am YuanD, i'm software engineer</h3>
 </div>
